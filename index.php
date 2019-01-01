@@ -1,6 +1,6 @@
 <?php
 echo "Hello there!";
-$arg="1223455678";
-print($argument);
+$arg="122345678";
+print($argument_new);
 
  ?>
